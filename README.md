@@ -7,7 +7,7 @@ Disciplina do 4º semestre do curso de Desenvolvimento de Software Multiplatafor
 ## Aluno
 - Nome: Gabriel Frois
 - LinkedIn: [Gabriel Frois](linkedin.com/in/gabriel-frois)
-- GitHub: GabrielFrois
+- GitHub: [GabrielFrois](https://github.com/GabrielFrois)
 ---
 
 ## Estrutura do Repositório
@@ -26,4 +26,5 @@ Descrição do problema escolhido.
 ---
 
 ## Aprendizados
+
 Registro reflexivo sobre evolução no semestre.
