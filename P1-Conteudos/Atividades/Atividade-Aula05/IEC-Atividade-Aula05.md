@@ -1,19 +1,5 @@
 # IEC - Atividade Aula 06
 
-## Exercício 1
-```json
-{
-  "scripts": {
-    "test": "jest"
-  },
-  "devDependencies": {
-    "eslint": "^10.0.3",
-    "jest": "^29.7.0",
-    "prettier": "^3.8.1"
-  }
-}
-```
-
 ## Exercício 2
 `tests/soma.test.js`
 ```js
