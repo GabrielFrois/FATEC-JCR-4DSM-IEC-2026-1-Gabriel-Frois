@@ -1,4 +1,4 @@
-# Atividade - Aula 05
+# Atividade - Aula 06
 
 ## Exercício 2:
 `logger.js`
