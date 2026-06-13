@@ -5,23 +5,23 @@
 
 ## PARTE I 
 
-**Questão 1** → **c) Uma parcela significativa do código pode não estar sendo validada pelos testes.**
+**Questão 1**: **c) Uma parcela significativa do código pode não estar sendo validada pelos testes.**
 
 ---
 
-**Questão 2** → **b) detectar problemas antes da implantação.**
+**Questão 2**: **b) detectar problemas antes da implantação.**
 
 ---
 
-**Questão 3** → **c) identificar vulnerabilidades em dependências.**
+**Questão 3**: **c) identificar vulnerabilidades em dependências.**
 
 ---
 
-**Questão 4** → **b) a cobertura dos testes precisa ser ampliada.**
+**Questão 4**: **b) a cobertura dos testes precisa ser ampliada.**
 
 ---
 
-**Questão 5** → **c) Fornecem indicadores visuais sobre a saúde do projeto.**
+**Questão 5**: **c) Fornecem indicadores visuais sobre a saúde do projeto.**
 
 ---
 
